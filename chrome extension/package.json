@@ -1,0 +1,12 @@
+{
+  "name": "mine",
+  "version": "1.0.0",
+  "description": "green-field",
+  "main": "index.js",
+  "author": "pudge team",
+  "license": "ISC",
+  "dependencies": {
+    "jqeury": "3.3.1",
+    "jquery": "^3.3.1"
+  }
+}
